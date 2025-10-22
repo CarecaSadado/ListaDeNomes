@@ -1,0 +1,11 @@
+C:\Users\ALUNO\Desktop\ProjetoPOO\jubileu\jubileu\bin\Debug\jubileu.exe.config
+C:\Users\ALUNO\Desktop\ProjetoPOO\jubileu\jubileu\bin\Debug\jubileu.exe
+C:\Users\ALUNO\Desktop\ProjetoPOO\jubileu\jubileu\bin\Debug\jubileu.pdb
+C:\Users\ALUNO\Desktop\ProjetoPOO\jubileu\jubileu\obj\Debug\jubileu.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\ProjetoPOO\jubileu\jubileu\obj\Debug\jubileu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUNO\Desktop\ProjetoPOO\jubileu\jubileu\obj\Debug\jubileu.Form1.resources
+C:\Users\ALUNO\Desktop\ProjetoPOO\jubileu\jubileu\obj\Debug\jubileu.Properties.Resources.resources
+C:\Users\ALUNO\Desktop\ProjetoPOO\jubileu\jubileu\obj\Debug\jubileu.csproj.GenerateResource.cache
+C:\Users\ALUNO\Desktop\ProjetoPOO\jubileu\jubileu\obj\Debug\jubileu.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\ProjetoPOO\jubileu\jubileu\obj\Debug\jubileu.exe
+C:\Users\ALUNO\Desktop\ProjetoPOO\jubileu\jubileu\obj\Debug\jubileu.pdb
